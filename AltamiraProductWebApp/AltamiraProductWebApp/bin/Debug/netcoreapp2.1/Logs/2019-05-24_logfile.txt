@@ -1,0 +1,48 @@
+2019-05-24 00:04:28.7101 INFO Here is info message from our values controller.
+2019-05-24 00:04:31.5891 INFO Here is info message from our values controller.
+2019-05-24 00:07:18.3905 INFO Here is info message from our values controller.
+2019-05-24 00:07:20.8158 INFO Here is info message from our values controller.
+2019-05-24 00:18:45.6324 INFO Here is info message from our values controller.
+2019-05-24 00:18:49.6933 INFO Here is info message from our values controller.
+2019-05-24 00:18:50.7467 ERROR Something went wrong: System.Exception: Product not found!
+   at AltamiraProductWebApp.Controllers.HomeController.Update(Int32 id) in C:\Users\Esra\source\repos\esratufanoglu\repo1\AltamiraProductWebApp\AltamiraProductWebApp\Controllers\HomeController.cs:line 45
+   at lambda_method(Closure , Object )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutorAwaitable.Awaiter.GetResult()
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at System.Threading.Tasks.ValueTask`1.get_Result()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextResourceFilter()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResourceExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeFilterPipelineAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeAsync()
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware.Invoke(HttpContext context)
+   at AltamiraShared.CustomExceptionMiddleware.ExceptionMiddleware.Invoke(HttpContext httpContext) in C:\Users\Esra\source\repos\esratufanoglu\repo1\AltamiraProductWebApp\AltamiraShared\CustomExceptionMiddleware\ExceptionMiddleware.cs:line 30
+2019-05-24 00:27:30.4247 INFO Here is info message from our values controller.
+2019-05-24 00:27:34.3621 INFO Here is info message from our values controller.
+2019-05-24 00:28:13.6919 INFO Here is info message from our values controller.
+2019-05-24 00:28:16.4102 INFO Here is info message from our values controller.
+2019-05-24 00:28:16.7473 ERROR Something went wrong: System.Exception: Product not found!
+   at AltamiraProductWebApp.Controllers.HomeController.Update(Int32 id) in C:\Users\Esra\source\repos\esratufanoglu\repo1\AltamiraProductWebApp\AltamiraProductWebApp\Controllers\HomeController.cs:line 45
+   at lambda_method(Closure , Object )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutorAwaitable.Awaiter.GetResult()
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at System.Threading.Tasks.ValueTask`1.get_Result()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextResourceFilter()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResourceExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeFilterPipelineAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeAsync()
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware.Invoke(HttpContext context)
+   at AltamiraShared.CustomExceptionMiddleware.ExceptionMiddleware.Invoke(HttpContext httpContext) in C:\Users\Esra\source\repos\esratufanoglu\repo1\AltamiraProductWebApp\AltamiraShared\CustomExceptionMiddleware\ExceptionMiddleware.cs:line 30

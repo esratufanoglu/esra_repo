@@ -1,0 +1,4 @@
+2019-05-23 23:07:26.8232 INFO Here is info message from our values controller.
+2019-05-23 23:07:42.8113 INFO Here is info message from our values controller.
+2019-05-23 23:54:23.0459 INFO Here is info message from our values controller.
+2019-05-23 23:54:40.0147 INFO Here is info message from our values controller.
