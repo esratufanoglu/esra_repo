@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Reflection;
 using System.Threading.Tasks;
-using AltamiraProductApi.Models;
 using AltamiraShared.Models;
 using AltamiraShared.Services;
 using Microsoft.AspNetCore.Builder;

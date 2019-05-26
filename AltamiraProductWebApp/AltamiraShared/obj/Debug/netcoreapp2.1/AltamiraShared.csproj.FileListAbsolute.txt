@@ -40,3 +40,17 @@ C:\Users\Esra\source\repos\esratufanoglu\repo1\AltamiraProductWebApp\AltamiraSha
 C:\Users\Esra\source\repos\esratufanoglu\repo1\AltamiraProductWebApp\AltamiraShared\obj\Debug\netcoreapp2.1\AltamiraShared.dll
 C:\Users\Esra\source\repos\esratufanoglu\repo1\AltamiraProductWebApp\AltamiraShared\obj\Debug\netcoreapp2.1\AltamiraShared.pdb
 C:\Users\Esra\source\repos\esratufanoglu\repo1\AltamiraProductWebApp\AltamiraShared\obj\Debug\netcoreapp2.1\AltamiraShared.csprojAssemblyReference.cache
+C:\Users\Esra\source\repos\esra_repo\AltamiraProductWebApp\AltamiraShared\bin\Debug\netcoreapp2.1\AltamiraShared.deps.json
+C:\Users\Esra\source\repos\esra_repo\AltamiraProductWebApp\AltamiraShared\bin\Debug\netcoreapp2.1\AltamiraShared.runtimeconfig.json
+C:\Users\Esra\source\repos\esra_repo\AltamiraProductWebApp\AltamiraShared\bin\Debug\netcoreapp2.1\AltamiraShared.runtimeconfig.dev.json
+C:\Users\Esra\source\repos\esra_repo\AltamiraProductWebApp\AltamiraShared\bin\Debug\netcoreapp2.1\AltamiraShared.dll
+C:\Users\Esra\source\repos\esra_repo\AltamiraProductWebApp\AltamiraShared\bin\Debug\netcoreapp2.1\AltamiraShared.pdb
+C:\Users\Esra\source\repos\esra_repo\AltamiraProductWebApp\AltamiraShared\obj\Debug\netcoreapp2.1\AltamiraShared.csprojAssemblyReference.cache
+C:\Users\Esra\source\repos\esra_repo\AltamiraProductWebApp\AltamiraShared\obj\Debug\netcoreapp2.1\AltamiraShared.csproj.CoreCompileInputs.cache
+C:\Users\Esra\source\repos\esra_repo\AltamiraProductWebApp\AltamiraShared\obj\Debug\netcoreapp2.1\AltamiraShared.RazorAssemblyInfo.cache
+C:\Users\Esra\source\repos\esra_repo\AltamiraProductWebApp\AltamiraShared\obj\Debug\netcoreapp2.1\AltamiraShared.RazorAssemblyInfo.cs
+C:\Users\Esra\source\repos\esra_repo\AltamiraProductWebApp\AltamiraShared\obj\Debug\netcoreapp2.1\AltamiraShared.AssemblyInfoInputs.cache
+C:\Users\Esra\source\repos\esra_repo\AltamiraProductWebApp\AltamiraShared\obj\Debug\netcoreapp2.1\AltamiraShared.AssemblyInfo.cs
+C:\Users\Esra\source\repos\esra_repo\AltamiraProductWebApp\AltamiraShared\obj\Debug\netcoreapp2.1\AltamiraShared.RazorTargetAssemblyInfo.cache
+C:\Users\Esra\source\repos\esra_repo\AltamiraProductWebApp\AltamiraShared\obj\Debug\netcoreapp2.1\AltamiraShared.dll
+C:\Users\Esra\source\repos\esra_repo\AltamiraProductWebApp\AltamiraShared\obj\Debug\netcoreapp2.1\AltamiraShared.pdb

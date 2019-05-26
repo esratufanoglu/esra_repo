@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Esra\\source\\repos\\esratufanoglu\\repo1\\AltamiraProductWebApp\\ElasticsearchService\\ElasticsearchService.csproj": {}
+    "C:\\Users\\Esra\\source\\repos\\esra_repo\\AltamiraProductWebApp\\ElasticsearchService\\ElasticsearchService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Esra\\source\\repos\\esratufanoglu\\repo1\\AltamiraProductWebApp\\ElasticsearchService\\ElasticsearchService.csproj": {
+    "C:\\Users\\Esra\\source\\repos\\esra_repo\\AltamiraProductWebApp\\ElasticsearchService\\ElasticsearchService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Esra\\source\\repos\\esratufanoglu\\repo1\\AltamiraProductWebApp\\ElasticsearchService\\ElasticsearchService.csproj",
+        "projectUniqueName": "C:\\Users\\Esra\\source\\repos\\esra_repo\\AltamiraProductWebApp\\ElasticsearchService\\ElasticsearchService.csproj",
         "projectName": "ElasticsearchService",
-        "projectPath": "C:\\Users\\Esra\\source\\repos\\esratufanoglu\\repo1\\AltamiraProductWebApp\\ElasticsearchService\\ElasticsearchService.csproj",
+        "projectPath": "C:\\Users\\Esra\\source\\repos\\esra_repo\\AltamiraProductWebApp\\ElasticsearchService\\ElasticsearchService.csproj",
         "packagesPath": "C:\\Users\\Esra\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Esra\\source\\repos\\esratufanoglu\\repo1\\AltamiraProductWebApp\\ElasticsearchService\\obj\\",
+        "outputPath": "C:\\Users\\Esra\\source\\repos\\esra_repo\\AltamiraProductWebApp\\ElasticsearchService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

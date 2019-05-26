@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Esra\\source\\repos\\esratufanoglu\\repo1\\AltamiraProductWebApp\\AltamiraProductWebApp\\AltamiraProductWebApp.csproj": {}
+    "C:\\Users\\Esra\\source\\repos\\esra_repo\\AltamiraProductWebApp\\AltamiraProductWebApp\\AltamiraProductWebApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Esra\\source\\repos\\esratufanoglu\\repo1\\AltamiraProductWebApp\\AltamiraProductWebApp\\AltamiraProductWebApp.csproj": {
+    "C:\\Users\\Esra\\source\\repos\\esra_repo\\AltamiraProductWebApp\\AltamiraProductWebApp\\AltamiraProductWebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Esra\\source\\repos\\esratufanoglu\\repo1\\AltamiraProductWebApp\\AltamiraProductWebApp\\AltamiraProductWebApp.csproj",
+        "projectUniqueName": "C:\\Users\\Esra\\source\\repos\\esra_repo\\AltamiraProductWebApp\\AltamiraProductWebApp\\AltamiraProductWebApp.csproj",
         "projectName": "AltamiraProductWebApp",
-        "projectPath": "C:\\Users\\Esra\\source\\repos\\esratufanoglu\\repo1\\AltamiraProductWebApp\\AltamiraProductWebApp\\AltamiraProductWebApp.csproj",
+        "projectPath": "C:\\Users\\Esra\\source\\repos\\esra_repo\\AltamiraProductWebApp\\AltamiraProductWebApp\\AltamiraProductWebApp.csproj",
         "packagesPath": "C:\\Users\\Esra\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Esra\\source\\repos\\esratufanoglu\\repo1\\AltamiraProductWebApp\\AltamiraProductWebApp\\obj\\",
+        "outputPath": "C:\\Users\\Esra\\source\\repos\\esra_repo\\AltamiraProductWebApp\\AltamiraProductWebApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,11 +30,11 @@
         "frameworks": {
           "netcoreapp2.1": {
             "projectReferences": {
-              "C:\\Users\\Esra\\source\\repos\\esratufanoglu\\repo1\\AltamiraProductWebApp\\AltamiraShared\\AltamiraShared.csproj": {
-                "projectPath": "C:\\Users\\Esra\\source\\repos\\esratufanoglu\\repo1\\AltamiraProductWebApp\\AltamiraShared\\AltamiraShared.csproj"
+              "C:\\Users\\Esra\\source\\repos\\esra_repo\\AltamiraProductWebApp\\AltamiraShared\\AltamiraShared.csproj": {
+                "projectPath": "C:\\Users\\Esra\\source\\repos\\esra_repo\\AltamiraProductWebApp\\AltamiraShared\\AltamiraShared.csproj"
               },
-              "C:\\Users\\Esra\\source\\repos\\esratufanoglu\\repo1\\AltamiraProductWebApp\\CoreApiClient\\CoreApiClient.csproj": {
-                "projectPath": "C:\\Users\\Esra\\source\\repos\\esratufanoglu\\repo1\\AltamiraProductWebApp\\CoreApiClient\\CoreApiClient.csproj"
+              "C:\\Users\\Esra\\source\\repos\\esra_repo\\AltamiraProductWebApp\\CoreApiClient\\CoreApiClient.csproj": {
+                "projectPath": "C:\\Users\\Esra\\source\\repos\\esra_repo\\AltamiraProductWebApp\\CoreApiClient\\CoreApiClient.csproj"
               }
             }
           }
@@ -81,14 +81,14 @@
         }
       }
     },
-    "C:\\Users\\Esra\\source\\repos\\esratufanoglu\\repo1\\AltamiraProductWebApp\\AltamiraShared\\AltamiraShared.csproj": {
+    "C:\\Users\\Esra\\source\\repos\\esra_repo\\AltamiraProductWebApp\\AltamiraShared\\AltamiraShared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Esra\\source\\repos\\esratufanoglu\\repo1\\AltamiraProductWebApp\\AltamiraShared\\AltamiraShared.csproj",
+        "projectUniqueName": "C:\\Users\\Esra\\source\\repos\\esra_repo\\AltamiraProductWebApp\\AltamiraShared\\AltamiraShared.csproj",
         "projectName": "AltamiraShared",
-        "projectPath": "C:\\Users\\Esra\\source\\repos\\esratufanoglu\\repo1\\AltamiraProductWebApp\\AltamiraShared\\AltamiraShared.csproj",
+        "projectPath": "C:\\Users\\Esra\\source\\repos\\esra_repo\\AltamiraProductWebApp\\AltamiraShared\\AltamiraShared.csproj",
         "packagesPath": "C:\\Users\\Esra\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Esra\\source\\repos\\esratufanoglu\\repo1\\AltamiraProductWebApp\\AltamiraShared\\obj\\",
+        "outputPath": "C:\\Users\\Esra\\source\\repos\\esra_repo\\AltamiraProductWebApp\\AltamiraShared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -151,14 +151,14 @@
         }
       }
     },
-    "C:\\Users\\Esra\\source\\repos\\esratufanoglu\\repo1\\AltamiraProductWebApp\\CoreApiClient\\CoreApiClient.csproj": {
+    "C:\\Users\\Esra\\source\\repos\\esra_repo\\AltamiraProductWebApp\\CoreApiClient\\CoreApiClient.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Esra\\source\\repos\\esratufanoglu\\repo1\\AltamiraProductWebApp\\CoreApiClient\\CoreApiClient.csproj",
+        "projectUniqueName": "C:\\Users\\Esra\\source\\repos\\esra_repo\\AltamiraProductWebApp\\CoreApiClient\\CoreApiClient.csproj",
         "projectName": "CoreApiClient",
-        "projectPath": "C:\\Users\\Esra\\source\\repos\\esratufanoglu\\repo1\\AltamiraProductWebApp\\CoreApiClient\\CoreApiClient.csproj",
+        "projectPath": "C:\\Users\\Esra\\source\\repos\\esra_repo\\AltamiraProductWebApp\\CoreApiClient\\CoreApiClient.csproj",
         "packagesPath": "C:\\Users\\Esra\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Esra\\source\\repos\\esratufanoglu\\repo1\\AltamiraProductWebApp\\CoreApiClient\\obj\\",
+        "outputPath": "C:\\Users\\Esra\\source\\repos\\esra_repo\\AltamiraProductWebApp\\CoreApiClient\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -177,8 +177,8 @@
         "frameworks": {
           "netcoreapp2.1": {
             "projectReferences": {
-              "C:\\Users\\Esra\\source\\repos\\esratufanoglu\\repo1\\AltamiraProductWebApp\\AltamiraShared\\AltamiraShared.csproj": {
-                "projectPath": "C:\\Users\\Esra\\source\\repos\\esratufanoglu\\repo1\\AltamiraProductWebApp\\AltamiraShared\\AltamiraShared.csproj"
+              "C:\\Users\\Esra\\source\\repos\\esra_repo\\AltamiraProductWebApp\\AltamiraShared\\AltamiraShared.csproj": {
+                "projectPath": "C:\\Users\\Esra\\source\\repos\\esra_repo\\AltamiraProductWebApp\\AltamiraShared\\AltamiraShared.csproj"
               }
             }
           }

@@ -12350,11 +12350,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Esra\\source\\repos\\esratufanoglu\\repo1\\AltamiraProductWebApp\\SQLServerService\\SQLServerService.csproj",
+      "projectUniqueName": "C:\\Users\\Esra\\source\\repos\\esra_repo\\AltamiraProductWebApp\\SQLServerService\\SQLServerService.csproj",
       "projectName": "SQLServerService",
-      "projectPath": "C:\\Users\\Esra\\source\\repos\\esratufanoglu\\repo1\\AltamiraProductWebApp\\SQLServerService\\SQLServerService.csproj",
+      "projectPath": "C:\\Users\\Esra\\source\\repos\\esra_repo\\AltamiraProductWebApp\\SQLServerService\\SQLServerService.csproj",
       "packagesPath": "C:\\Users\\Esra\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Esra\\source\\repos\\esratufanoglu\\repo1\\AltamiraProductWebApp\\SQLServerService\\obj\\",
+      "outputPath": "C:\\Users\\Esra\\source\\repos\\esra_repo\\AltamiraProductWebApp\\SQLServerService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12373,8 +12373,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\Esra\\source\\repos\\esratufanoglu\\repo1\\AltamiraProductWebApp\\AltamiraShared\\AltamiraShared.csproj": {
-              "projectPath": "C:\\Users\\Esra\\source\\repos\\esratufanoglu\\repo1\\AltamiraProductWebApp\\AltamiraShared\\AltamiraShared.csproj"
+            "C:\\Users\\Esra\\source\\repos\\esra_repo\\AltamiraProductWebApp\\AltamiraShared\\AltamiraShared.csproj": {
+              "projectPath": "C:\\Users\\Esra\\source\\repos\\esra_repo\\AltamiraProductWebApp\\AltamiraShared\\AltamiraShared.csproj"
             }
           }
         }

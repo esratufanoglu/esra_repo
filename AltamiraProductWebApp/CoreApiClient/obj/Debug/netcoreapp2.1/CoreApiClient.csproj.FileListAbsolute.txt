@@ -24,3 +24,15 @@ C:\Users\Esra\source\repos\esratufanoglu\repo1\AltamiraProductWebApp\CoreApiClie
 C:\Users\Esra\source\repos\esratufanoglu\repo1\AltamiraProductWebApp\CoreApiClient\bin\Debug\netcoreapp2.1\AltamiraShared.dll
 C:\Users\Esra\source\repos\esratufanoglu\repo1\AltamiraProductWebApp\CoreApiClient\bin\Debug\netcoreapp2.1\AltamiraShared.pdb
 C:\Users\Esra\source\repos\esratufanoglu\repo1\AltamiraProductWebApp\CoreApiClient\obj\Debug\netcoreapp2.1\CoreApiClient.csproj.CopyComplete
+C:\Users\Esra\source\repos\esra_repo\AltamiraProductWebApp\CoreApiClient\bin\Debug\netcoreapp2.1\CoreApiClient.deps.json
+C:\Users\Esra\source\repos\esra_repo\AltamiraProductWebApp\CoreApiClient\bin\Debug\netcoreapp2.1\CoreApiClient.dll
+C:\Users\Esra\source\repos\esra_repo\AltamiraProductWebApp\CoreApiClient\bin\Debug\netcoreapp2.1\CoreApiClient.pdb
+C:\Users\Esra\source\repos\esra_repo\AltamiraProductWebApp\CoreApiClient\bin\Debug\netcoreapp2.1\AltamiraShared.dll
+C:\Users\Esra\source\repos\esra_repo\AltamiraProductWebApp\CoreApiClient\bin\Debug\netcoreapp2.1\AltamiraShared.pdb
+C:\Users\Esra\source\repos\esra_repo\AltamiraProductWebApp\CoreApiClient\obj\Debug\netcoreapp2.1\CoreApiClient.csprojAssemblyReference.cache
+C:\Users\Esra\source\repos\esra_repo\AltamiraProductWebApp\CoreApiClient\obj\Debug\netcoreapp2.1\CoreApiClient.csproj.CoreCompileInputs.cache
+C:\Users\Esra\source\repos\esra_repo\AltamiraProductWebApp\CoreApiClient\obj\Debug\netcoreapp2.1\CoreApiClient.AssemblyInfoInputs.cache
+C:\Users\Esra\source\repos\esra_repo\AltamiraProductWebApp\CoreApiClient\obj\Debug\netcoreapp2.1\CoreApiClient.AssemblyInfo.cs
+C:\Users\Esra\source\repos\esra_repo\AltamiraProductWebApp\CoreApiClient\obj\Debug\netcoreapp2.1\CoreApiClient.csproj.CopyComplete
+C:\Users\Esra\source\repos\esra_repo\AltamiraProductWebApp\CoreApiClient\obj\Debug\netcoreapp2.1\CoreApiClient.dll
+C:\Users\Esra\source\repos\esra_repo\AltamiraProductWebApp\CoreApiClient\obj\Debug\netcoreapp2.1\CoreApiClient.pdb

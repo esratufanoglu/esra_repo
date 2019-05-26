@@ -13138,11 +13138,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Esra\\source\\repos\\esratufanoglu\\repo1\\AltamiraProductWebApp\\AltamiraProductApi\\AltamiraProductApi.csproj",
+      "projectUniqueName": "C:\\Users\\Esra\\source\\repos\\esra_repo\\AltamiraProductWebApp\\AltamiraProductApi\\AltamiraProductApi.csproj",
       "projectName": "AltamiraProductApi",
-      "projectPath": "C:\\Users\\Esra\\source\\repos\\esratufanoglu\\repo1\\AltamiraProductWebApp\\AltamiraProductApi\\AltamiraProductApi.csproj",
+      "projectPath": "C:\\Users\\Esra\\source\\repos\\esra_repo\\AltamiraProductWebApp\\AltamiraProductApi\\AltamiraProductApi.csproj",
       "packagesPath": "C:\\Users\\Esra\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Esra\\source\\repos\\esratufanoglu\\repo1\\AltamiraProductWebApp\\AltamiraProductApi\\obj\\",
+      "outputPath": "C:\\Users\\Esra\\source\\repos\\esra_repo\\AltamiraProductWebApp\\AltamiraProductApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -13161,8 +13161,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\Esra\\source\\repos\\esratufanoglu\\repo1\\AltamiraProductWebApp\\AltamiraShared\\AltamiraShared.csproj": {
-              "projectPath": "C:\\Users\\Esra\\source\\repos\\esratufanoglu\\repo1\\AltamiraProductWebApp\\AltamiraShared\\AltamiraShared.csproj"
+            "C:\\Users\\Esra\\source\\repos\\esra_repo\\AltamiraProductWebApp\\AltamiraShared\\AltamiraShared.csproj": {
+              "projectPath": "C:\\Users\\Esra\\source\\repos\\esra_repo\\AltamiraProductWebApp\\AltamiraShared\\AltamiraShared.csproj"
             }
           }
         }

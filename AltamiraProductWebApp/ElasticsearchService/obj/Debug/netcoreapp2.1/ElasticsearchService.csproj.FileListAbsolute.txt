@@ -26,3 +26,17 @@ C:\Users\Esra\source\repos\esratufanoglu\repo1\AltamiraProductWebApp\Elasticsear
 C:\Users\Esra\source\repos\esratufanoglu\repo1\AltamiraProductWebApp\ElasticsearchService\obj\Debug\netcoreapp2.1\ElasticsearchService.RazorTargetAssemblyInfo.cache
 C:\Users\Esra\source\repos\esratufanoglu\repo1\AltamiraProductWebApp\ElasticsearchService\obj\Debug\netcoreapp2.1\ElasticsearchService.dll
 C:\Users\Esra\source\repos\esratufanoglu\repo1\AltamiraProductWebApp\ElasticsearchService\obj\Debug\netcoreapp2.1\ElasticsearchService.pdb
+C:\Users\Esra\source\repos\esra_repo\AltamiraProductWebApp\ElasticsearchService\bin\Debug\netcoreapp2.1\ElasticsearchService.deps.json
+C:\Users\Esra\source\repos\esra_repo\AltamiraProductWebApp\ElasticsearchService\bin\Debug\netcoreapp2.1\ElasticsearchService.runtimeconfig.json
+C:\Users\Esra\source\repos\esra_repo\AltamiraProductWebApp\ElasticsearchService\bin\Debug\netcoreapp2.1\ElasticsearchService.runtimeconfig.dev.json
+C:\Users\Esra\source\repos\esra_repo\AltamiraProductWebApp\ElasticsearchService\bin\Debug\netcoreapp2.1\ElasticsearchService.dll
+C:\Users\Esra\source\repos\esra_repo\AltamiraProductWebApp\ElasticsearchService\bin\Debug\netcoreapp2.1\ElasticsearchService.pdb
+C:\Users\Esra\source\repos\esra_repo\AltamiraProductWebApp\ElasticsearchService\obj\Debug\netcoreapp2.1\ElasticsearchService.csprojAssemblyReference.cache
+C:\Users\Esra\source\repos\esra_repo\AltamiraProductWebApp\ElasticsearchService\obj\Debug\netcoreapp2.1\ElasticsearchService.csproj.CoreCompileInputs.cache
+C:\Users\Esra\source\repos\esra_repo\AltamiraProductWebApp\ElasticsearchService\obj\Debug\netcoreapp2.1\ElasticsearchService.RazorAssemblyInfo.cache
+C:\Users\Esra\source\repos\esra_repo\AltamiraProductWebApp\ElasticsearchService\obj\Debug\netcoreapp2.1\ElasticsearchService.RazorAssemblyInfo.cs
+C:\Users\Esra\source\repos\esra_repo\AltamiraProductWebApp\ElasticsearchService\obj\Debug\netcoreapp2.1\ElasticsearchService.AssemblyInfoInputs.cache
+C:\Users\Esra\source\repos\esra_repo\AltamiraProductWebApp\ElasticsearchService\obj\Debug\netcoreapp2.1\ElasticsearchService.AssemblyInfo.cs
+C:\Users\Esra\source\repos\esra_repo\AltamiraProductWebApp\ElasticsearchService\obj\Debug\netcoreapp2.1\ElasticsearchService.RazorTargetAssemblyInfo.cache
+C:\Users\Esra\source\repos\esra_repo\AltamiraProductWebApp\ElasticsearchService\obj\Debug\netcoreapp2.1\ElasticsearchService.dll
+C:\Users\Esra\source\repos\esra_repo\AltamiraProductWebApp\ElasticsearchService\obj\Debug\netcoreapp2.1\ElasticsearchService.pdb

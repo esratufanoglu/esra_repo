@@ -55,7 +55,7 @@ namespace AltamiraProductApi.Controllers
             {
                 using (var channel = connection.CreateModel())
                 {
-                    channel.QueueDeclare(queue: product.Name,
+                    channel.QueueDeclare(queue: _config.Value.QueueName,
                                         durable: false,
                                         exclusive: false,
                                         autoDelete: false,
@@ -66,7 +66,7 @@ namespace AltamiraProductApi.Controllers
                     var body = Encoding.UTF8.GetBytes(productSerialized);
 
                     channel.BasicPublish(exchange: "",
-                                        routingKey: product.Name,
+                                        routingKey: _config.Value.QueueName,
                                         basicProperties: null,
                                         body: body);
                 }

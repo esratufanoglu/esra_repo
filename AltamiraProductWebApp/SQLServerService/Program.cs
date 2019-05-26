@@ -11,44 +11,45 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
+using RabbitMQ.Client;
 using RabbitMQ.Client.Events;
 
 namespace SQLServerService
 {
     public class Program
     {
-        private static RabbitMQService _rabbitMQService;
-        private static ProductContext _context;
-
+        private static string queueName = "altamira";
         public static void Main(string[] args)
         {
-            CreateWebHostBuilder(args).Build().Run();
-            IConfiguration config = new ConfigurationBuilder()
-                      .AddJsonFile("appsettings.json", true, true)
-                      .Build();
-            _rabbitMQService = new RabbitMQService(config);
+            var factory = new ConnectionFactory() { HostName = "localhost" };
+            DbContextFactory db = new DbContextFactory();
+            ProductContext context = db.CreateDbContext();
 
-            using (var connection = _rabbitMQService.GetRabbitMQConnection())
+            using (var connection = factory.CreateConnection())
             {
                 using (var channel = connection.CreateModel())
                 {
+                    channel.QueueDeclare(queue: queueName,
+                                 durable: false,
+                                 exclusive: false,
+                                 autoDelete: false,
+                                 arguments: null);
+
                     var consumer = new EventingBasicConsumer(channel);
                     consumer.Received += (model, ea) =>
                     {
                         var body = ea.Body;
                         var message = Encoding.UTF8.GetString(body);
-
-                        Console.WriteLine("{0} isimli queue üzerinden gelen mesaj: \"{1}\"", queueName, message);
+                        Console.WriteLine(" [x] Received {0}", message);
                     };
+                    channel.BasicConsume(queue: queueName,
+                                         autoAck: true,
+                                         consumer: consumer);
 
-                    channel.BasicConsume(queueName, true, consumer);
+                    Console.WriteLine(" Press [enter] to exit.");
                     Console.ReadLine();
                 }
             }
         }
-
-        public static IWebHostBuilder CreateWebHostBuilder(string[] args) =>
-            WebHost.CreateDefaultBuilder(args)
-                .UseStartup<Startup>();
     }
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Esra\\source\\repos\\esratufanoglu\\repo1\\AltamiraProductWebApp\\AltamiraShared\\AltamiraShared.csproj": {}
+    "C:\\Users\\Esra\\source\\repos\\esra_repo\\AltamiraProductWebApp\\AltamiraShared\\AltamiraShared.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Esra\\source\\repos\\esratufanoglu\\repo1\\AltamiraProductWebApp\\AltamiraShared\\AltamiraShared.csproj": {
+    "C:\\Users\\Esra\\source\\repos\\esra_repo\\AltamiraProductWebApp\\AltamiraShared\\AltamiraShared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Esra\\source\\repos\\esratufanoglu\\repo1\\AltamiraProductWebApp\\AltamiraShared\\AltamiraShared.csproj",
+        "projectUniqueName": "C:\\Users\\Esra\\source\\repos\\esra_repo\\AltamiraProductWebApp\\AltamiraShared\\AltamiraShared.csproj",
         "projectName": "AltamiraShared",
-        "projectPath": "C:\\Users\\Esra\\source\\repos\\esratufanoglu\\repo1\\AltamiraProductWebApp\\AltamiraShared\\AltamiraShared.csproj",
+        "projectPath": "C:\\Users\\Esra\\source\\repos\\esra_repo\\AltamiraProductWebApp\\AltamiraShared\\AltamiraShared.csproj",
         "packagesPath": "C:\\Users\\Esra\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Esra\\source\\repos\\esratufanoglu\\repo1\\AltamiraProductWebApp\\AltamiraShared\\obj\\",
+        "outputPath": "C:\\Users\\Esra\\source\\repos\\esra_repo\\AltamiraProductWebApp\\AltamiraShared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -15010,11 +15010,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Esra\\source\\repos\\esratufanoglu\\repo1\\AltamiraProductWebApp\\AltamiraProductWebApp\\AltamiraProductWebApp.csproj",
+      "projectUniqueName": "C:\\Users\\Esra\\source\\repos\\esra_repo\\AltamiraProductWebApp\\AltamiraProductWebApp\\AltamiraProductWebApp.csproj",
       "projectName": "AltamiraProductWebApp",
-      "projectPath": "C:\\Users\\Esra\\source\\repos\\esratufanoglu\\repo1\\AltamiraProductWebApp\\AltamiraProductWebApp\\AltamiraProductWebApp.csproj",
+      "projectPath": "C:\\Users\\Esra\\source\\repos\\esra_repo\\AltamiraProductWebApp\\AltamiraProductWebApp\\AltamiraProductWebApp.csproj",
       "packagesPath": "C:\\Users\\Esra\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Esra\\source\\repos\\esratufanoglu\\repo1\\AltamiraProductWebApp\\AltamiraProductWebApp\\obj\\",
+      "outputPath": "C:\\Users\\Esra\\source\\repos\\esra_repo\\AltamiraProductWebApp\\AltamiraProductWebApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -15033,11 +15033,11 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\Esra\\source\\repos\\esratufanoglu\\repo1\\AltamiraProductWebApp\\AltamiraShared\\AltamiraShared.csproj": {
-              "projectPath": "C:\\Users\\Esra\\source\\repos\\esratufanoglu\\repo1\\AltamiraProductWebApp\\AltamiraShared\\AltamiraShared.csproj"
+            "C:\\Users\\Esra\\source\\repos\\esra_repo\\AltamiraProductWebApp\\AltamiraShared\\AltamiraShared.csproj": {
+              "projectPath": "C:\\Users\\Esra\\source\\repos\\esra_repo\\AltamiraProductWebApp\\AltamiraShared\\AltamiraShared.csproj"
             },
-            "C:\\Users\\Esra\\source\\repos\\esratufanoglu\\repo1\\AltamiraProductWebApp\\CoreApiClient\\CoreApiClient.csproj": {
-              "projectPath": "C:\\Users\\Esra\\source\\repos\\esratufanoglu\\repo1\\AltamiraProductWebApp\\CoreApiClient\\CoreApiClient.csproj"
+            "C:\\Users\\Esra\\source\\repos\\esra_repo\\AltamiraProductWebApp\\CoreApiClient\\CoreApiClient.csproj": {
+              "projectPath": "C:\\Users\\Esra\\source\\repos\\esra_repo\\AltamiraProductWebApp\\CoreApiClient\\CoreApiClient.csproj"
             }
           }
         }
