@@ -71,7 +71,7 @@ using AltamiraProductWebApp.Models;
         ");
             EndContext();
             BeginContext(438, 1553, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "1fc7f18add3d48b9bc5957da62d3e922", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "bb53ea346f3345cf8975788d42893e5b", async() => {
                 BeginContext(528, 291, true);
                 WriteLiteral(@"
             <div class=""box-body"">

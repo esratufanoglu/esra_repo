@@ -72,7 +72,7 @@ using AltamiraProductWebApp.Models;
         ");
             EndContext();
             BeginContext(357, 571, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "a0f934c12d41474cb36bc0c22338acbb", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "8abfd8258f7a4d7aa8f84c5d59654df9", async() => {
                 BeginContext(433, 488, true);
                 WriteLiteral(@"
             <div class=""box-body"">
@@ -125,7 +125,7 @@ AddHtmlAttributeValue("", 409, Url.Content("~/Home"), 409, 22, false);
                 ");
             EndContext();
             BeginContext(1276, 1641, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c127b2a6b68e4a60ac1d929689adca92", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "6b26d957e39148759bc7dc7985ca0342", async() => {
                 BeginContext(1359, 72, true);
                 WriteLiteral("\r\n                    <div class=\"box-body\">\r\n                        <a");
                 EndContext();
@@ -266,7 +266,7 @@ AddHtmlAttributeValue("", 1328, Url.Content("~/Home/Delete"), 1328, 29, false);
             WriteLiteral("\r\n                    <!-- /.box-body -->\r\n            </div>\r\n            <!-- /.box -->\r\n        </div>\r\n        <!-- /.col -->\r\n    </div>\r\n    <!-- /.row -->\r\n</section>\r\n\r\n<!-- DataTables -->\r\n");
             EndContext();
             BeginContext(3115, 85, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "731535d9dfd24e82a21a29a334d71164", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7872a185ad7b48aea2d978f0a4119f35", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -284,7 +284,7 @@ AddHtmlAttributeValue("", 1328, Url.Content("~/Home/Delete"), 1328, 29, false);
             WriteLiteral("\r\n");
             EndContext();
             BeginContext(3202, 91, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "29cfed5d62f04604b1f09111419cc97d", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "2bac35c7eba6411abf52009d91df7594", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
